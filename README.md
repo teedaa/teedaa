@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @teedaa
 - 👀 I’m interested in coding, good food, sleeping.
-- 🌱 I’m currently learning how to code at the UCB Coding Bootcamp.
+- 🌱 I’m currently double majoring in Full Stack Web Development and Web and Multimedia at SRJC.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me [LinkedIn](linkedin.com/in/pengteda-cheng)
 
